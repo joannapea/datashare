@@ -115,6 +115,8 @@ Configure target storage for your Data Share
 
 1. Under *Target Storage Settings*, select the subscription, resource group, and storage account that you'd like to receive your data into.
 
+Important: for the file system/container name, be sure to specify a name that differs from the name of the data share you specified as a data provider. 
+
 ![target-storage-settings](./images/target-storage-settings.png "target-storage-settings")
 
 2. To receive regular refreshes of your data, make sure you enable the snapshot settings. Note that you will only see a snapshot schedule if your data provider has included it in the data share.
