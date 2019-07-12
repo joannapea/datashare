@@ -6,10 +6,9 @@ In this lab, you will work in pairs. One of you will act as the provider and the
 
 In this scenario, Contoso is a retailer of various goods. Contoso wants to share point of sales and demand forecast data with their supplier, Fabrikam. Contoso is the Data Provider, and Fabrikam is the Data Consumer. 
 
-In this lab, you will act as both the Data Provider and the Data Consumer. As the Data Provider, you will share data with your neighbour. You'll need your neighbors Azure login e-mail so that you can share data with them, so be sure to make friends with them in advance! 
+In this lab, you will act as both the Data Provider and the Data Consumer. As the Data Provider, you will share data with your neighbour. You'll need your neighbors Azure login e-mail so that you can share data with them, so be sure to make friends with them in advance and exchange e-mail addresses! 
 
 Contoso will add their data to a data share and invite Fabrikam to access the data. Fabrikam can then receive the data into their own Azure Storage Account.
-
 
 ## Prerequisites
 
@@ -61,7 +60,7 @@ Create a Data Share
 
 ![select-datasets](./images/select-datasets.png "select-datasets")
 
-9. In the recipients tab, enter in the email addresses of your Data Consumer (preferably, a person sitting nearby) by select **+ Add Recipient**. You will need to ask for their Azure login e-mail address (not their alias e-mail address) due to some existing limitations. 
+9. In the recipients tab, enter in the email address of your Data Consumer (the person sitting next to you) by select **+ Add Recipient**. You will need to ask for their Azure login e-mail address (not their alias e-mail address) due to some existing limitations. Provide them with your e-mail address too so that they can invite you to their data share. 
 
 ![add-recipient](./images/add-recipient.png "add-recipient")
 
