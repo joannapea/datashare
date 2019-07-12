@@ -87,7 +87,7 @@ Locate the invitation that was sent to you by the Data Provider
 
 1. Check your inbox for an invitation from your data provider. The invitation is from Microsoft Azure, titled Azure Data Share invitation from <yourdataprovider@domain.com>. Take note of the share name to ensure you're accepting the correct share.
 
-![invitation-template](./images/invitation-template.png "invitation-template")
+![invitation-template](./images/invitation-temp.png "invitation-template")
 
 2. Select **View invitation** to see your invitation in Azure. This takes you to your *Received Shares* view.
 
