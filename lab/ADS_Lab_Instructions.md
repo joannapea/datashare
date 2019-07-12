@@ -1,14 +1,14 @@
 # Azure Data Share
 
-In this lab, you will work in pairs. One of you will act as the provider and the other as the consumer. Each person will run through the lab in both roles.
-
 ## Scenario
 
 In this scenario, Contoso is a retailer of various goods. Contoso wants to share point of sales and demand forecast data with their supplier, Fabrikam. Contoso is the Data Provider, and Fabrikam is the Data Consumer. 
 
-In this lab, you will act as both the Data Provider and the Data Consumer. As the Data Provider, you will share data with your neighbour. You'll need your neighbors Azure login e-mail so that you can share data with them, so be sure to make friends with them in advance and exchange e-mail addresses! 
+In this lab, you will act as both the Data Provider and the Data Consumer by first sharing data as a Data Provider, and then receiving data as a Data Consumer. 
 
-In this lab, you will create a new data share, add datasets to the data share and then invite your new friend to receive the data into their own Azure Storage Account. You will experience both the data provider flow (i.e the person sharing the data), as well a the data consumer flow (i.e the person receiving the data). Lets get started! 
+As the Data Provider, you will share data with your neighbour. You'll need your neighbors Azure login e-mail so that you can share data with them, so be sure to make friends with them in advance and exchange e-mail addresses! 
+
+Throughout the lab, you will create a new data share, add datasets to the data share and then invite your new friend to receive the data into their own Azure Storage Account. You will experience both the data provider flow (i.e the person sharing the data), as well a the data consumer flow (i.e the person receiving the data). Lets get started! 
 
 ## Prerequisites
 
@@ -70,7 +70,7 @@ Create a Data Share
 
 ![enable-snapshots](./images/enable-snapshots.png "enable-snapshots")
 
-13. Select a start time and an hourly recurrence interval.
+13. Select a start time 2-3 mins in the future and an hourly recurrence interval.
 14. Select **Continue**.
 15. In the *Review + Create* tab, review your Package Contents, Settings, Recipients, and Synchronization Settings.
 16. Select **Create**.
