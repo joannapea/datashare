@@ -8,7 +8,7 @@ In this scenario, Contoso is a retailer of various goods. Contoso wants to share
 
 In this lab, you will act as both the Data Provider and the Data Consumer. As the Data Provider, you will share data with your neighbour. You'll need your neighbors Azure login e-mail so that you can share data with them, so be sure to make friends with them in advance and exchange e-mail addresses! 
 
-Contoso will add their data to a data share and invite Fabrikam to access the data. Fabrikam can then receive the data into their own Azure Storage Account.
+In this lab, you will create a new data share, add datasets to the data share and then invite your new friend to receive the data into their own Azure Storage Account. You will experience both the data provider flow (i.e the person sharing the data), as well a the data consumer flow (i.e the person receiving the data). Lets get started! 
 
 ## Prerequisites
 
